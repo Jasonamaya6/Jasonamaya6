@@ -1,6 +1,6 @@
 # Welcome!!! 👋
 
-Welcome to my GitHub profile! My name is **Jason Amaya**, and I’m currently a Bachelor of Science student in **Information Technology & Data Analytics** at James Madison University, expecting to graduate in May 2026. I’m actively building my skills in **cloud computing**, **programming**, **database management**, and **AI technologies** to gain hands-on experience and drive impactful projects.
+Hello there this is my GitHub profile! My name is **Jason Amaya**, and I’m currently a Bachelor of Science student in **Information Technology & Data Analytics** at James Madison University, expecting to graduate in May 2026. I’m actively building my skills in **cloud computing**, **programming**, **database management**, and **AI technologies** to gain hands-on experience and drive impactful projects.
 
 ---
 
